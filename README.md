@@ -1,3 +1,7 @@
+# CALCULATOR
+C++
+ENERIO,GLEN
+BSIT-2112
 
 #include <iostream>
 using namespace std;
