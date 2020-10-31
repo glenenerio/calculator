@@ -1,5 +1,5 @@
-// # calculator
-// c++
+# calculator
+c++
 # include <iostream>
 using namespace std;
 
