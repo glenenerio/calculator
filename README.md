@@ -1,6 +1,3 @@
-# calculator
-c++
-
 
 #include <iostream>
 using namespace std;
