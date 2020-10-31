@@ -1,4 +1,4 @@
-# CALCULATOR
+# calculator
 C++
 
 #include <iostream>
